@@ -1,0 +1,25 @@
+{
+  "name": "key-value-store-state",
+  "version": "1.0.0",
+  "description": "observable stateful key value object store Edit",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soenkekluth/key-value-store-state.git"
+  },
+  "author": "Sönke Kluth <soenke.kluth@gmail.com> (http://soenkekluth.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/soenkekluth/key-value-store-state/issues"
+  },
+  "homepage": "https://github.com/soenkekluth/key-value-store-state#readme",
+  "devDependencies": {
+    "ava": "0.18.2"
+  },
+  "dependencies": {
+    "object-state-store": "*"
+  }
+}
