@@ -6,6 +6,20 @@
   "scripts": {
     "test": "ava"
   },
+  "keywords": [
+    "deep",
+    "path",
+    "object",
+    "redux",
+    "store",
+    "state",
+    "observable",
+    "key",
+    "value",
+    "map",
+    "emit",
+    "event"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/soenkekluth/key-value-store-state.git"
