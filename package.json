@@ -1,6 +1,6 @@
 {
   "name": "key-value-store-state",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "observable stateful key value object store Edit",
   "main": "index.js",
   "scripts": {
@@ -34,6 +34,6 @@
     "ava": "0.18.2"
   },
   "dependencies": {
-    "object-state-store": "*"
+    "object-state-store": "0.9.0"
   }
 }

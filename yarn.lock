@@ -1820,9 +1820,9 @@ object-path@^0.11.4:
   version "0.11.4"
   resolved "https://registry.yarnpkg.com/object-path/-/object-path-0.11.4.tgz#370ae752fbf37de3ea70a861c23bba8915691949"
 
-object-state-store@*:
-  version "0.8.0"
-  resolved "https://registry.yarnpkg.com/object-state-store/-/object-state-store-0.8.0.tgz#752af5d50c9614631b079a7e8f32a1be6ddf41c3"
+object-state-store@0.9.0:
+  version "0.9.0"
+  resolved "https://registry.yarnpkg.com/object-state-store/-/object-state-store-0.9.0.tgz#4d3972728076cbe83bb771c44760c10490a02950"
   dependencies:
     babel-plugin-transform-es2015-modules-commonjs "6.24.0"
     eventdispatcher "^2.5.1"
