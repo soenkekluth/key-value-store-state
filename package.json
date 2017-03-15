@@ -1,6 +1,6 @@
 {
   "name": "key-value-store-state",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "observable stateful key value object store Edit",
   "main": "index.js",
   "scripts": {
