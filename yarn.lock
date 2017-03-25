@@ -425,7 +425,7 @@ babel-plugin-transform-es2015-function-name@^6.9.0:
     babel-runtime "^6.22.0"
     babel-types "^6.22.0"
 
-babel-plugin-transform-es2015-modules-commonjs@6.24.0, babel-plugin-transform-es2015-modules-commonjs@^6.18.0:
+babel-plugin-transform-es2015-modules-commonjs@^6.18.0:
   version "6.24.0"
   resolved "https://registry.yarnpkg.com/babel-plugin-transform-es2015-modules-commonjs/-/babel-plugin-transform-es2015-modules-commonjs-6.24.0.tgz#e921aefb72c2cc26cb03d107626156413222134f"
   dependencies:
@@ -1820,11 +1820,10 @@ object-path@^0.11.4:
   version "0.11.4"
   resolved "https://registry.yarnpkg.com/object-path/-/object-path-0.11.4.tgz#370ae752fbf37de3ea70a861c23bba8915691949"
 
-object-state-store@0.9.0:
-  version "0.9.0"
-  resolved "https://registry.yarnpkg.com/object-state-store/-/object-state-store-0.9.0.tgz#4d3972728076cbe83bb771c44760c10490a02950"
+"object-state-store@>= 1.0.0":
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/object-state-store/-/object-state-store-1.0.0.tgz#a7004bab3d5fc37b4b5225118287980932397cdd"
   dependencies:
-    babel-plugin-transform-es2015-modules-commonjs "6.24.0"
     eventdispatcher "^2.5.1"
     is-plain-obj "1.1.0"
     object-assign "^4.1.1"
