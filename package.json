@@ -31,7 +31,7 @@
   },
   "homepage": "https://github.com/soenkekluth/key-value-store-state#readme",
   "devDependencies": {
-    "ava": "0.18.2"
+    "ava": "0.23.0"
   },
   "dependencies": {
     "object-state-store": ">= 1.0.0"
